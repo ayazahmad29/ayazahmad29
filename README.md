@@ -4,7 +4,7 @@
 💻 **Full Stack Developer (in progress)**
 🚀 Passionate about building modern web applications
 📚 Currently learning and improving every day
-  I learn by building projects and breaking things
+⭐ I learn by building projects and breaking things
 
 ---
 
