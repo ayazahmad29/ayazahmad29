@@ -1,9 +1,10 @@
 ## Hi there 👋
-# 👋 Hi, I'm Ayaz Ahmad Khan
+# Hi, I'm Ayaz Ahmad
 
 💻 **Full Stack Developer (in progress)**
 🚀 Passionate about building modern web applications
 📚 Currently learning and improving every day
+  I learn by building projects and breaking things
 
 ---
 
@@ -51,12 +52,6 @@ Node.js • Express.js • MongoDB
 * ⚛️ Learn advanced React concepts
 * 🌐 Build real-world projects
 * 🧠 Improve problem-solving skills
-
----
-
-## ⚡ Fun Fact
-
-> I learn by building projects and breaking things 😄
 
 ---
 
