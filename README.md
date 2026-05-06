@@ -1,9 +1,11 @@
-## Hi there 👋
 # Hi, I'm Ayaz Ahmad
 
 💻 **Full Stack Developer (in progress)**
+
 🚀 Passionate about building modern web applications
+
 📚 Currently learning and improving every day
+
 ⭐ I learn by building projects and breaking things
 
 ---
@@ -29,10 +31,12 @@ Node.js • Express.js • MongoDB
 
 ## 📂 Projects
 
-### 🧑‍💻 User Card UI
+### 📋 Kanban Task Manager
 
-* Built a dynamic user card interface using HTML, CSS & JavaScript
-* Features form input, card generation, and responsive design
+* Built a drag-and-drop task management app using HTML, CSS & JavaScript
+* Implemented dynamic task movement across Todo, Progress, and Done columns
+* Integrated localStorage to persist tasks across browser sessions
+* Added features like task creation, deletion, and smooth UI interactions
 
 ### 📦 Stack Implementation (JS)
 
