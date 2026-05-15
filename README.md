@@ -31,6 +31,12 @@ Node.js • Express.js • MongoDB
 
 ## 📂 Projects
 
+### 🐍 Snake Game
+
+* Built a classic Snake Game using HTML, CSS & JavaScript
+* Features smooth controls, score tracking, food generation, and game-over detection
+* Focused on game logic, collision detection, and responsive gameplay experience
+
 ### 📋 Kanban Task Manager
 
 * Built a drag-and-drop task management app using HTML, CSS & JavaScript
@@ -42,11 +48,6 @@ Node.js • Express.js • MongoDB
 
 * Created a stack data structure using JavaScript
 * Implemented push, pop, and display operations
-
-### 🎨 Scroll Card UI
-
-* Designed scroll-based animated cards using HTML & CSS
-* Focused on UI/UX and smooth transitions
 
 ---
 
